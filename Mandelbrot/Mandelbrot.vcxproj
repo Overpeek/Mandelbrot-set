@@ -23,7 +23,7 @@
     <ProjectGuid>{1E1186B9-B36D-45E2-A662-B709BC819D20}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Mandelbrot</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -72,24 +72,24 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>$(SolutionDir)Libraries\glm;$(SolutionDir)Libraries\GLEW\include;$(SolutionDir)Libraries\GLFW\include</IncludePath>
+    <IncludePath>$(SolutionDir)Libraries\stb-master;$(SolutionDir)Libraries\glm;$(SolutionDir)Libraries\GLEW\include;$(SolutionDir)Libraries\GLFW\include;;$(IncludePath)</IncludePath>
     <LibraryPath>$(SolutionDir)Libraries\GLEW\lib;$(SolutionDir)Libraries\GLFW\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>$(SolutionDir)Libraries\glm;$(SolutionDir)Libraries\GLEW\include;$(SolutionDir)Libraries\GLFW\include</IncludePath>
+    <IncludePath>$(SolutionDir)Libraries\stb-master;$(SolutionDir)Libraries\glm;$(SolutionDir)Libraries\GLEW\include;$(SolutionDir)Libraries\GLFW\include;;$(IncludePath)</IncludePath>
     <LibraryPath>$(SolutionDir)Libraries\GLEW\lib;$(SolutionDir)Libraries\GLFW\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
-    <IncludePath>$(SolutionDir)Libraries\glm;$(SolutionDir)Libraries\GLEW\include;$(SolutionDir)Libraries\GLFW\include;$(IncludePath)</IncludePath>
+    <IncludePath>$(SolutionDir)Libraries\stb-master;$(SolutionDir)Libraries\glm;$(SolutionDir)Libraries\GLEW\include;$(SolutionDir)Libraries\GLFW\include;$(IncludePath);$(IncludePath)</IncludePath>
     <LibraryPath>$(SolutionDir)Libraries\GLEW\lib;$(SolutionDir)Libraries\GLFW\lib;$(LibraryPath)</LibraryPath>
     <OutDir>$(SolutionDir)bin\$(Platform)\$(Configuration)\</OutDir>
     <IntDir>$(SolutionDir)bin\$(Platform)\$(Configuration)\Intermediate</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
-    <IncludePath>$(SolutionDir)Libraries\glm;$(SolutionDir)Libraries\GLEW\include;$(SolutionDir)Libraries\GLFW\include;$(IncludePath)</IncludePath>
+    <IncludePath>$(SolutionDir)Libraries\stb-master;$(SolutionDir)Libraries\glm;$(SolutionDir)Libraries\GLEW\include;$(SolutionDir)Libraries\GLFW\include;$(IncludePath);$(IncludePath)</IncludePath>
     <LibraryPath>$(SolutionDir)Libraries\GLEW\lib;$(SolutionDir)Libraries\GLFW\lib;$(LibraryPath)</LibraryPath>
     <OutDir>$(SolutionDir)bin\$(Platform)\$(Configuration)\</OutDir>
     <IntDir>$(SolutionDir)bin\$(Platform)\$(Configuration)\Intermediate</IntDir>
@@ -175,6 +175,7 @@
     <ClInclude Include="arrayBuffer.h" />
     <ClInclude Include="gameloop.h" />
     <ClInclude Include="shader.h" />
+    <ClInclude Include="tools\textureloader.h" />
     <ClInclude Include="vertexArray.h" />
   </ItemGroup>
   <ItemGroup>
