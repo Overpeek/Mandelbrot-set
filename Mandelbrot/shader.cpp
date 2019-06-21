@@ -24,7 +24,7 @@ Shader::Shader(std::string vertexPath, std::string fragmentPath) {
 	if (!success)
 	{
 		glGetShaderInfoLog(vertexShader, 512, NULL, infoLog);
-		std::cout << "ERROR 0: Vertex shader compilation failed!\n" << infoLog << std::endl;
+		std::cout << "Vertex shader compilation failed!\n" << infoLog << std::endl;
 		system("pause");
 		exit(0);
 	}
@@ -32,7 +32,7 @@ Shader::Shader(std::string vertexPath, std::string fragmentPath) {
 	if (!success)
 	{
 		glGetShaderInfoLog(fragmentShader, 512, NULL, infoLog);
-		std::cout << "ERROR 1: Fragment shader compilation failed!\n" << infoLog << std::endl;
+		std::cout << "Fragment shader compilation failed!\n" << infoLog << std::endl;
 		system("pause");
 		exit(0);
 	}
@@ -45,7 +45,7 @@ Shader::Shader(std::string vertexPath, std::string fragmentPath) {
 	glGetProgramiv(m_shaderID, GL_LINK_STATUS, &success);
 	if (!success) {
 		glGetProgramInfoLog(m_shaderID, 512, NULL, infoLog);
-		std::cout << "ERROR 2: Shader program linking failed!\n" << infoLog << std::endl;
+		std::cout << "Shader program linking failed!\n" << infoLog << std::endl;
 		system("pause");
 		exit(0);
 	}

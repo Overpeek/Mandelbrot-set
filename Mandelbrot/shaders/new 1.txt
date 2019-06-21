@@ -1,0 +1,2213 @@
+[2018-11-29 14:16:56.373] [console] [info] Logger created.
+[2018-11-29 14:16:57.022] [console] [info] Window created.
+[2018-11-29 14:16:57.024] [console] [info] OpenGL Renderer: Intel(R) UHD Graphics 630
+[2018-11-29 14:16:57.024] [console] [info] OpenGL Version: 4.5.0 - Build 23.20.16.4974
+A subdirectory or file C:\Users\Eemeli Lehtonen\AppData\Roaming\_overpeek-game\test\regions already exists.
+[2018-11-29 14:16:58.486] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.487] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.488] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.489] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.490] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.491] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.491] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.492] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.492] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.493] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.494] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.494] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.499] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.499] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.500] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.501] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.501] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.502] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.503] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.503] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.504] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.504] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.505] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.506] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.506] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.516] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.519] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.521] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.523] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.529] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.532] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.535] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.537] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.543] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.545] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.548] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.550] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.556] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.558] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.561] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.564] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.570] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.572] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.575] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.577] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.584] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.586] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.588] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.591] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.596] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.598] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.601] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.603] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.608] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.613] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.616] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.623] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.629] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.636] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.638] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.643] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.646] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.648] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.650] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.655] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.661] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.669] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.676] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.680] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.684] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.692] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.695] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.698] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.703] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.710] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.718] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.725] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.734] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.745] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.752] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.768] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.780] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.796] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.808] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.814] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.821] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.836] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.851] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.866] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.873] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.885] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.896] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.898] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.901] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.904] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.910] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.913] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.915] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.920] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.922] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.925] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.927] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.932] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.935] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.937] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.939] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.946] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.948] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.951] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.954] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.959] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.961] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.964] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.969] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:58.986] [console] [info] Update loop: 0
+[2018-11-29 14:16:58.997] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.001] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.014] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.016] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.019] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.027] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.029] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.034] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.039] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.042] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.049] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.052] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.055] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.057] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.063] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.065] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.067] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.069] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.074] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.078] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.085] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.087] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.090] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.095] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.099] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.101] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.108] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.112] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.116] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.126] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.135] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.139] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.141] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.148] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.150] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.153] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.155] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.160] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.168] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.174] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.177] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.182] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.184] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.187] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.192] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.195] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.197] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.200] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.204] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.210] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.215] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.218] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.222] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.228] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.230] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.234] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.239] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.244] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.246] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.251] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.253] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.256] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.258] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.263] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.267] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.269] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.273] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.276] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.279] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.285] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.287] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.289] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.292] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.297] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.300] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.302] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.304] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.309] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.311] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.314] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.316] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.321] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.323] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.326] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.328] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.333] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.336] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.339] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.344] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.348] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.350] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.356] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.358] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.361] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.364] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.369] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.371] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.373] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.378] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.383] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.385] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.390] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.392] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.395] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.397] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.402] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.405] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.407] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.413] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.418] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.423] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.425] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.428] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.430] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.435] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.439] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.446] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.449] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.452] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.454] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.459] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.461] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.463] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.466] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.474] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.477] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.480] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.482] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.488] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.490] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.493] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.495] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.509] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.511] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.514] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.519] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.521] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.524] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.526] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.532] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.535] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.542] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.544] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.586] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.588] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.590] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.592] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.594] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.600] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.605] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.612] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.616] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.618] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.620] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.626] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.629] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.632] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.637] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.641] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.643] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.647] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.650] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.653] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.662] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.664] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.667] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.669] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.675] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.677] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.680] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.683] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.689] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.692] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.697] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.699] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.703] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.708] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.711] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.713] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.716] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.724] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.726] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.730] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.732] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.735] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.738] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.743] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.745] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.747] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.749] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.753] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.758] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.760] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.765] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.768] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.772] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.781] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.786] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.788] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.793] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.795] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.798] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.804] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.807] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.809] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.815] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.820] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.822] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.826] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.829] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.832] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.834] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.839] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.841] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.846] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.850] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.854] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.857] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.861] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.863] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.866] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.868] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.872] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.883] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.885] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.887] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.889] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.895] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.897] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.899] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.900] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.907] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.910] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.913] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.917] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.919] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.922] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.924] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.926] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.931] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.933] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.935] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.937] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.942] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.944] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.947] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.949] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.954] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.956] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.958] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.961] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.965] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.967] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.971] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.973] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.981] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.987] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:16:59.994] [console] [info] Update loop: 0
+[2018-11-29 14:16:59.998] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.001] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.004] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.009] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.012] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.015] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.020] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.022] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.024] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.026] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.032] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.035] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.037] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.039] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.044] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.046] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.054] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.056] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.059] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.061] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.066] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.068] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.070] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.073] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.078] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.080] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.083] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.087] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.090] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.093] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.098] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.100] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.103] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.105] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.109] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.111] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.113] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.115] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.119] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.121] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.124] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.126] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.128] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.134] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.136] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.138] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.143] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.146] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.148] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.150] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.154] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.156] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.159] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.164] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.168] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.170] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.175] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.177] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.180] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.182] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.188] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.190] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.193] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.199] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.202] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.205] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.207] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.212] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.215] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.219] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.225] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.228] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.231] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.235] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.242] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.248] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.250] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.253] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.255] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.260] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.265] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.268] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.273] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.275] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.277] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.281] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.285] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.286] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.288] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.292] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.294] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.296] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.298] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.299] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.304] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.306] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.307] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.310] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.315] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.320] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.322] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.326] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.328] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.333] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.337] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.361] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.362] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.364] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.368] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.370] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.374] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.378] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.380] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.384] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.389] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.392] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.396] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.398] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.401] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.403] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.410] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.413] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.416] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.418] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.423] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.427] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.429] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.434] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.437] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.440] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.444] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.447] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.449] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.451] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.457] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.459] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.462] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.464] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.469] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.472] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.475] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.481] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.487] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.491] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.494] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.496] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.498] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.505] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.508] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.510] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.512] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.517] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.521] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.523] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.528] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.531] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.534] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.539] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.541] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.543] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.546] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.550] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.553] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.556] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.558] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.563] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.565] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.568] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.570] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.574] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.576] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.580] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.584] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.586] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.589] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.591] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.596] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.598] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.601] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.603] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.608] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.613] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.618] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.620] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.624] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.629] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.633] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.636] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.641] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.646] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.649] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.653] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.655] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.658] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.660] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.665] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.667] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.670] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.678] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.681] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.683] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.685] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.691] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.695] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.697] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.699] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.704] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.706] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.709] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.713] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.717] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.723] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.725] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.728] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.730] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.735] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.737] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.739] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.741] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.743] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.747] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.750] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.752] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.755] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.760] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.765] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.767] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.771] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.773] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.775] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.778] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.782] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.785] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.788] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.790] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.794] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.799] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.801] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.805] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.807] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.810] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.815] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.819] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.821] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.825] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.829] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.837] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.841] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.849] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.851] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.854] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.856] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.861] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.866] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.871] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.875] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.884] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.886] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.889] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.917] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.918] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.921] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.923] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.925] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.930] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.932] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.935] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.937] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.941] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.945] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.947] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.952] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.955] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.958] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.960] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.965] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.967] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.971] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.976] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.980] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.984] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.988] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.991] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:00.993] [console] [info] Update loop: 0
+[2018-11-29 14:17:00.997] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.001] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.003] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.005] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.010] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.014] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.018] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.022] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.025] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.027] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.029] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.034] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.036] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.038] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.040] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.045] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.051] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.059] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.065] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.070] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.072] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.075] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.077] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.084] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.087] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.089] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.091] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.098] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.100] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.103] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.105] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.111] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.114] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.116] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.119] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.126] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.128] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.130] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.134] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.136] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.140] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.145] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.147] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.150] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.153] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.157] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.161] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.163] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.167] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.174] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.176] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.181] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.183] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.185] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.190] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.195] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.199] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.202] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.204] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.206] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.210] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.213] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.215] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.217] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.223] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.225] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.228] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.231] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.235] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.238] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.240] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.242] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.247] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.250] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.252] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.254] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.260] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.266] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.272] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.275] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.278] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.285] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.288] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.290] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.292] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.298] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.303] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.327] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.328] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.330] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.332] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.335] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.340] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.342] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.345] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.350] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.353] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.355] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.357] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.361] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.364] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.366] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.368] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.373] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.375] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.380] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.385] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.389] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.391] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.393] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.398] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.400] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.402] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.410] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.413] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.416] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.420] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.423] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.425] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.428] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.432] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.434] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.437] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.439] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.444] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.446] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.448] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.451] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.456] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.459] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.461] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.468] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.473] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.478] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.481] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.486] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.491] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.494] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.496] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.498] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.503] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.507] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.509] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.514] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.516] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.520] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.526] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.528] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.530] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.534] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.540] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.542] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.544] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.546] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.550] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.553] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.556] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.558] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.563] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.565] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.567] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.569] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.574] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.577] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.579] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.582] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.587] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.589] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.592] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.620] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.621] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.624] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.627] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.633] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.635] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.637] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.640] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.645] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.647] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.650] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.652] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.656] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.659] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.661] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.664] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.670] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.676] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.680] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.683] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.688] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.692] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.695] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.698] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.703] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.705] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.708] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.713] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.716] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.719] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.721] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.727] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.729] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.732] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.734] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.743] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.745] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.751] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.753] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.756] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.758] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.762] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.764] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.767] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.770] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.774] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.777] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.782] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.786] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.788] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.791] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.793] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.798] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.800] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.803] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.805] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.810] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.814] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.840] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.841] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.843] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.847] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.852] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.854] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.856] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.859] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.864] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.868] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.870] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.875] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.877] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.880] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.882] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.887] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.889] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.892] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.901] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.903] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.906] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.914] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.917] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.919] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.921] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.925] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.928] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.930] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.932] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.937] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.939] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.942] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.947] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.952] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.955] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.962] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.966] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.970] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.975] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.978] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.982] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.987] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:01.990] [console] [info] Update loop: 0
+[2018-11-29 14:17:01.992] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.020] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.022] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.024] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.026] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.028] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.033] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.036] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.038] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.040] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.045] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.049] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.053] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.057] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.059] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.062] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.065] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.070] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.076] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.080] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.084] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.087] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.092] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.094] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.104] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.107] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.110] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.115] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.119] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.122] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.129] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.131] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.135] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.137] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.142] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.144] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.148] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.173] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.175] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.179] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.181] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.186] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.188] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.190] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.192] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.197] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.199] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.203] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.207] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.209] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.212] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.215] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.220] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.223] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.225] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.230] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.232] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.237] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.241] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.243] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.246] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.249] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.254] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.257] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.259] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.264] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.266] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.269] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.271] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.298] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.300] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.304] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.311] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.314] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.323] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.361] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.362] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.366] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.369] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.371] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.376] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.379] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.381] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.386] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.388] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.391] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.398] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.402] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.410] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.412] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.415] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.417] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.422] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.444] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.446] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.448] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.450] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.452] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.458] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.460] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.462] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.466] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.472] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.474] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.477] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.482] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.486] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.490] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.494] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.497] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.501] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.506] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.518] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.521] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.524] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.531] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.535] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.537] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.542] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.545] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.548] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.554] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.557] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.586] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.588] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.590] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.592] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.595] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.601] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.604] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.606] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.611] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.615] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.617] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.620] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.624] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.626] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.630] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.635] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.639] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.641] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.646] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.648] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.651] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.653] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.658] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.660] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.665] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.669] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.674] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.676] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.701] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.702] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.705] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.708] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.710] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.715] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.726] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.729] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.738] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.740] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.743] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.749] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.751] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.754] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.756] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.764] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.766] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.769] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.771] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.776] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.779] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.781] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.805] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.807] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.809] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.813] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.818] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.821] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.823] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.825] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.830] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.834] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.839] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.842] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.844] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.846] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.851] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.855] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.857] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.862] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.864] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.867] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.869] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.874] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.895] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.897] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.899] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.901] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.903] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.908] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.911] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.914] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.916] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.921] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.926] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.932] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.936] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.942] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.945] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.948] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.950] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.956] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.980] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.982] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.984] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.988] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.992] [console] [info] Update loop: 0
+[2018-11-29 14:17:02.994] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:02.998] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.000] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.007] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.009] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.012] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.014] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.018] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.021] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.023] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.025] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.032] [console] [info] Render loop: true
+[2018-11-29 14:17:03.035] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:03.056] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.057] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.059] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.061] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.064] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.069] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.071] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.073] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.075] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.080] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.084] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.087] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.091] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.093] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.096] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.098] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.104] [console] [info] Render loop: true
+[2018-11-29 14:17:03.105] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:03.124] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.126] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.128] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.130] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.132] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.136] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.141] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.144] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.151] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.153] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.156] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.159] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.165] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.168] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.175] [console] [info] Render loop: true
+[2018-11-29 14:17:03.179] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:03.204] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.205] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.207] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.209] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.212] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.217] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.222] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.225] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.229] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.231] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.235] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.237] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.242] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.244] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.246] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.253] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.258] [console] [info] Render loop: true
+[2018-11-29 14:17:03.259] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:03.283] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.285] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.287] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.290] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.293] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.297] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.300] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.302] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.304] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.308] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.312] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.314] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.316] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.321] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.323] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.326] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.329] [console] [info] Render loop: true
+[2018-11-29 14:17:03.335] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:03.353] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.354] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.356] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.360] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.362] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.367] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.371] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.374] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.379] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.382] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.384] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.386] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.391] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.395] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.399] [console] [info] Render loop: true
+[2018-11-29 14:17:03.402] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:03.423] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.424] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.428] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.430] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.436] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.439] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.445] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.447] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.450] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.453] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.459] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.461] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.464] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.470] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.474] [console] [info] Render loop: true
+[2018-11-29 14:17:03.475] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:03.499] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.500] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.503] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.505] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.507] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.512] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.515] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.517] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.519] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.524] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.528] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.530] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.535] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.537] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.542] [console] [info] Render loop: true
+[2018-11-29 14:17:03.546] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:03.571] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.572] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.574] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.578] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.584] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.586] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.590] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.595] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.598] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.600] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.605] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.608] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.611] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.613] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.620] [console] [info] Render loop: true
+[2018-11-29 14:17:03.621] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:03.657] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.658] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.660] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.662] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.664] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.666] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.671] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.673] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.675] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.678] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.683] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.687] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.689] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.694] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.696] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.699] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.701] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.706] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.714] [console] [info] Render loop: true
+[2018-11-29 14:17:03.719] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:03.742] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.744] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.746] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.748] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.751] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.756] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.758] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.760] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.770] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.772] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.775] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.782] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.786] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.793] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.800] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.809] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.813] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.826] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.833] [console] [info] Render loop: true
+[2018-11-29 14:17:03.836] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:03.860] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.862] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.864] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.866] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.868] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.873] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.876] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.878] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.882] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.885] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.888] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.890] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.895] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.898] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.900] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.903] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.911] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.913] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.917] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.919] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.922] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.928] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.932] [console] [info] Render loop: true
+[2018-11-29 14:17:03.933] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:03.957] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.959] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.961] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.963] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.965] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.972] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.975] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.978] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.983] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.986] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.990] [console] [info] Update loop: 0
+[2018-11-29 14:17:03.995] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:03.998] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.001] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.006] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.009] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.012] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.017] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.021] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.023] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.029] [console] [info] Render loop: true
+[2018-11-29 14:17:04.031] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:04.061] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.062] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.066] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.069] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.072] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.077] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.079] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.082] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.084] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.089] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.092] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.095] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.099] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.104] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.106] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.108] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.113] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.115] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.117] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.121] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.126] [console] [info] Render loop: true
+[2018-11-29 14:17:04.128] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:04.152] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.153] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.156] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.158] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.160] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.165] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.167] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.170] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.172] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.177] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.180] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.182] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.188] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.195] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.201] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.203] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.210] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.215] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.219] [console] [info] Render loop: true
+[2018-11-29 14:17:04.223] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:04.251] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.253] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.255] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.258] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.261] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.266] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.268] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.270] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.273] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.278] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.280] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.283] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.287] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.291] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.294] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.299] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.301] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.304] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.306] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.311] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.315] [console] [info] Render loop: true
+[2018-11-29 14:17:04.316] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:04.339] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.341] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.345] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.347] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.353] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.355] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.358] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.360] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.366] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.368] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.370] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.373] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.378] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.382] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.384] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.389] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.392] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.394] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.401] [console] [info] Render loop: true
+[2018-11-29 14:17:04.403] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:04.426] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.427] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.430] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.433] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.439] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.445] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.450] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.453] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.456] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.461] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.465] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.467] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.473] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.479] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.483] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.486] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.488] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.491] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.497] [console] [info] Render loop: true
+[2018-11-29 14:17:04.499] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:04.520] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.521] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.523] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.525] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.528] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.533] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.536] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.538] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.540] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.545] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.548] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.550] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.553] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.557] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.560] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.562] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.567] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.570] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.573] [console] [info] Render loop: true
+[2018-11-29 14:17:04.574] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:04.596] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.597] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.601] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.605] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.609] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.612] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.614] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.623] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.626] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.630] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.635] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.638] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.641] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.647] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.650] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.653] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.661] [console] [info] Render loop: true
+[2018-11-29 14:17:04.662] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:04.687] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.689] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.692] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.696] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.701] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.703] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.706] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.708] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.713] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.715] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.717] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.724] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.728] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.731] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.735] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.737] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.740] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.742] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.748] [console] [info] Render loop: true
+[2018-11-29 14:17:04.749] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:04.770] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.771] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.774] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.776] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.778] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.783] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.786] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.788] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.790] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.795] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.799] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.803] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.807] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.811] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.814] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.818] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.822] [console] [info] Render loop: true
+[2018-11-29 14:17:04.824] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:04.846] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.847] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.849] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.852] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.854] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.859] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.861] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.864] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.866] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.870] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.875] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.882] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.884] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.887] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.889] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.895] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.900] [console] [info] Render loop: true
+[2018-11-29 14:17:04.903] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:04.924] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.926] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.929] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.931] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.933] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.938] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.941] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.943] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.945] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.950] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.953] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.956] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.960] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.963] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.965] [console] [info] Update loop: 0
+[2018-11-29 14:17:04.968] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:04.974] [console] [info] Render loop: true
+[2018-11-29 14:17:04.978] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:05.000] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.002] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.004] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.007] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.009] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.014] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.017] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.019] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.021] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.026] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.031] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.038] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.041] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.043] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.048] [console] [info] Render loop: true
+[2018-11-29 14:17:05.054] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:05.076] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.078] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.081] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.083] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.085] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.090] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.092] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.095] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.102] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.105] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.108] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.110] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.115] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.118] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.120] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.123] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.129] [console] [info] Render loop: true
+[2018-11-29 14:17:05.132] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:05.152] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.153] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.155] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.158] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.163] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.166] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.169] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.175] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.179] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.182] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.186] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.188] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.193] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.198] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.203] [console] [info] Render loop: true
+[2018-11-29 14:17:05.205] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:05.228] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.230] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.232] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.235] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.245] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.249] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.252] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.257] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.263] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.270] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.273] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.276] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.281] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.284] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.286] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.288] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.295] [console] [info] Render loop: true
+[2018-11-29 14:17:05.298] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:05.319] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.320] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.323] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.325] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.328] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.334] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.336] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.339] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.341] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.346] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.349] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.353] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.357] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.361] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.363] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.369] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.371] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.374] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.377] [console] [info] Render loop: true
+[2018-11-29 14:17:05.381] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:05.402] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.403] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.406] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.408] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.411] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.417] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.422] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.426] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.429] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.432] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.438] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.440] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.443] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.445] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.451] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.453] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.465] [console] [info] Render loop: true
+[2018-11-29 14:17:05.466] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:05.491] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.493] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.495] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.497] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.499] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.505] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.507] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.510] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.512] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.517] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.521] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.523] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.525] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.530] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.535] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.539] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.542] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.545] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.552] [console] [info] Render loop: true
+[2018-11-29 14:17:05.555] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:05.575] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.576] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.579] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.583] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.589] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.591] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.593] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.596] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.601] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.604] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.607] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.611] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.613] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.617] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.622] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.627] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.630] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.635] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.639] [console] [info] Render loop: true
+[2018-11-29 14:17:05.641] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:05.665] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.668] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.682] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.685] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.689] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.696] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.700] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.702] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.708] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.711] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.714] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.718] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.724] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.730] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.736] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.743] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.745] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.747] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.751] [console] [info] Render loop: true
+[2018-11-29 14:17:05.755] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:05.776] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.778] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.781] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.785] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.792] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.794] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.797] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.802] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.805] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.807] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.810] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.815] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.819] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.822] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.827] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.833] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.837] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.840] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.843] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.845] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.850] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.854] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.860] [console] [info] Render loop: true
+[2018-11-29 14:17:05.863] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:05.890] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.892] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.897] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.905] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.909] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.912] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.918] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.925] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.931] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.933] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.937] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.942] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.945] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.947] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.953] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.957] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.960] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.966] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.972] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.977] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.979] [console] [info] Update loop: 0
+[2018-11-29 14:17:05.983] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:05.993] [console] [info] Render loop: true
+[2018-11-29 14:17:05.994] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:06.020] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.022] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.024] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.034] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.037] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.040] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.047] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.058] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.062] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.070] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.077] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.092] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.099] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.106] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.117] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.133] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.136] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.149] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.153] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.165] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.171] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.179] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.183] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.185] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.190] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.194] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.204] [console] [info] Render loop: true
+[2018-11-29 14:17:06.208] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:06.235] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.237] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.239] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.242] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.245] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.251] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.256] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.258] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.263] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.265] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.270] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.275] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.278] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.282] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.286] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.291] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.297] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.302] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.307] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.312] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.315] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.328] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.336] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.343] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.347] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.349] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.355] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.359] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.362] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.366] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.369] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.372] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.381] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.386] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.389] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.397] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.400] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.402] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.409] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.412] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.417] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.423] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.432] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.437] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.442] [console] [info] Render loop: true
+[2018-11-29 14:17:06.449] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:06.474] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.475] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.478] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.480] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.482] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.487] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.494] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.498] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.503] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.510] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.517] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.525] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.531] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.538] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.541] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.543] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.554] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.560] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.569] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.571] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.574] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.577] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.585] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.590] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.593] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.596] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.602] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.605] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.608] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.615] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.618] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.621] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.626] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.628] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.632] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.635] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.640] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.645] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.650] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.653] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.655] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.661] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.666] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.668] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.674] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.677] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.681] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.686] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.692] [console] [info] Render loop: true
+[2018-11-29 14:17:06.695] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:06.717] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.721] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.727] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.732] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.735] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.739] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.746] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.749] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.751] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.759] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.764] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.777] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.787] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.792] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.794] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.799] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.803] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.806] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.811] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.815] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.818] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.822] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.826] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.830] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.836] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.840] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.843] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.848] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.851] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.855] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.863] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.868] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.870] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.875] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.878] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.882] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.888] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.892] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.895] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.899] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.902] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.904] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.910] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.912] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.915] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.921] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.929] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.935] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.940] [console] [info] Render loop: true
+[2018-11-29 14:17:06.942] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:06.972] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.973] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.978] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.980] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.986] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.989] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:06.992] [console] [info] Update loop: 0
+[2018-11-29 14:17:06.997] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.000] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.002] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.009] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.013] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.015] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.021] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.023] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.026] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.028] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.036] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.038] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.041] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.043] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.049] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.051] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.055] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.061] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.063] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.065] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.067] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.073] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.076] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.078] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.083] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.085] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.087] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.090] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.095] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.098] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.100] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.103] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.107] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.110] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.113] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.117] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.120] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.122] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.125] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.131] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.133] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.136] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.138] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.147] [console] [info] Render loop: true
+[2018-11-29 14:17:07.148] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:07.171] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.173] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.179] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.183] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.186] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.192] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.201] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.207] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.211] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.215] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.224] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.228] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.231] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.235] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.237] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.240] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.247] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.253] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.255] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.261] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.264] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.266] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.271] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.274] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.277] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.282] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.284] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.286] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.289] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.294] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.298] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.301] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.306] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.308] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.312] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.317] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.321] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.324] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.329] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.332] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.336] [console] [info] Render loop: true
+[2018-11-29 14:17:07.340] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:07.396] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.399] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.400] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.401] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.403] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.421] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.436] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.439] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.441] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.447] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.451] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.454] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.461] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.465] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.472] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.475] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.478] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.483] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.485] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.488] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.490] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.499] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.502] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.509] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.513] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.516] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.521] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.523] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.526] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.528] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.534] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.537] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.544] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.548] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.551] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.556] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.559] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.561] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.572] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.578] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.583] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.586] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.589] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.595] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.597] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.601] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.614] [console] [info] Render loop: true
+[2018-11-29 14:17:07.616] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:07.640] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.642] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.647] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.651] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.653] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.656] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.660] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.666] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.668] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.671] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.675] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.678] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.681] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.685] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.689] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.692] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.696] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.701] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.707] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.709] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.713] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.719] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.724] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.731] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.737] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.742] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.744] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.748] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.753] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.757] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.764] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.767] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.770] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.774] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.777] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.779] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.782] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.789] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.793] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.796] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.801] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.806] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.812] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.815] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.817] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.819] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.825] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.827] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.833] [console] [info] Render loop: true
+[2018-11-29 14:17:07.837] [console] [info] 0x1c45aba5a20
+[2018-11-29 14:17:07.860] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.862] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.866] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.871] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.875] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.877] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.880] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.885] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.889] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.891] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.897] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.899] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.901] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.909] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.912] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.915] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.920] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.923] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.927] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.932] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.934] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.937] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.939] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.945] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.947] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.949] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.952] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.960] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.962] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.965] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.967] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.975] [console] [info] 0x1c45a9adc90
+[2018-11-29 14:17:07.979] [console] [info] Update loop: 0
+[2018-11-29 14:17:07.981] [console] [i

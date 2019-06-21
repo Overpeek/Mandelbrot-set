@@ -24,6 +24,15 @@
     <ClCompile Include="gameloop.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="tools\clock.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tools\textureLoader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tools\random.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="shader.h">
@@ -38,6 +47,15 @@
     <ClInclude Include="gameloop.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="tools\clock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tools\filereader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tools\random.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
     <ClInclude Include="tools\textureloader.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -45,5 +63,6 @@
   <ItemGroup>
     <None Include="shaders\basic.frag.glsl" />
     <None Include="shaders\basic.vert.glsl" />
+    <None Include="shaders\texture.frag.glsl" />
   </ItemGroup>
 </Project>
